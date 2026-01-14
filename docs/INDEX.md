@@ -6,75 +6,75 @@ This index provides a structured overview of all documents included in the Aurel
 
 ## 1. Governance and Organizational Structure
 
-- **GOVERNANCE_OVERVIEW.md**  
+- [GOVERNANCE_OVERVIEW.md](./GOVERNANCE_OVERVIEW.md)  
   High‑level structure, decision‑making model, and governance principles.
 
-- **ROLE_DEFINITIONS.md**  
+- [ROLE_DEFINITIONS.md](./ROLE_DEFINITIONS.md)  
   Responsibilities, authorities, and expectations for all defined roles.
 
-- **COMMUNICATION_STANDARDS.md**  
+- [COMMUNICATION_STANDARDS.md](./COMMUNICATION_STANDARDS.md)  
   Rules for professional communication, tone, and information flow.
 
 ---
 
 ## 2. Control, Change, and Compliance
 
-- **VERSION_CONTROL_POLICY.md**  
+- [VERSION_CONTROL_POLICY.md](./VERSION_CONTROL_POLICY.md)  
   Standards for branches, commits, and repository structure.
 
-- **CHANGE_CONTROL.md**  
+- [CHANGE_CONTROL.md](./CHANGE_CONTROL.md)  
   Overview of change request processes and classifications.
 
-- **CHANGE_CONTROL_POLICY.md**  
+- [CHANGE_CONTROL_POLICY.md](./CHANGE_CONTROL_POLICY.md)  
   Formal policy for evaluating, approving, and documenting changes.
 
-- **RELEASE_MANAGEMENT.md**  
+- [RELEASE_MANAGEMENT.md](./RELEASE_MANAGEMENT.md)  
   Standards for versioning, release notes, and publishing procedures.
 
-- **AUDIT_PROCESS.md**  
+- [AUDIT_PROCESS.md](./AUDIT_PROCESS.md)  
   Requirements and workflow for internal audits and compliance checks.
 
 ---
 
 ## 3. Documentation and Quality Standards
 
-- **DOCUMENTATION_STANDARDS.md**  
+- [DOCUMENTATION_STANDARDS.md](./DOCUMENTATION_STANDARDS.md)  
   Formatting, structure, terminology, and file naming rules.
 
-- **QUALITY_ASSURANCE_POLICY.md**  
+- [QUALITY_ASSURANCE_POLICY.md](./QUALITY_ASSURANCE_POLICY.md)  
   Requirements for clarity, consistency, accuracy, and completeness.
 
-- **TECHNICAL_STANDARDS.md**  
+- [TECHNICAL_STANDARDS.md](./TECHNICAL_STANDARDS.md)  
   Technical expectations, formatting rules, and structural conventions.
 
 ---
 
 ## 4. Contribution and Conduct
 
-- **CONTRIBUTION_GUIDELINES.md**  
+- [CONTRIBUTION_GUIDELINES.md](./CONTRIBUTION_GUIDELINES.md)  
   Workflow, branch naming, commit rules, and PR requirements.
 
-- **CODE_OF_CONDUCT.md**  
+- [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)  
   Behavioral expectations and unacceptable practices.
 
-- **COMMUNICATION_STANDARDS.md**  
+- [COMMUNICATION_STANDARDS.md](./COMMUNICATION_STANDARDS.md)  
   Professional tone, clarity, and communication rules.
 
 ---
 
 ## 5. Risk, Security, and Operational Integrity
 
-- **RISK_MANAGEMENT.md**  
+- [RISK_MANAGEMENT.md](./RISK_MANAGEMENT.md)  
   Risk categories, evaluation methods, and mitigation processes.
 
-- **SECURITY_POLICY.md**  
+- [SECURITY_POLICY.md](./SECURITY_POLICY.md)  
   Security expectations, access control, and protection standards.
 
 ---
 
 ## 6. Proposal and Decision‑Making Processes
 
-- **PROPOSAL_LIFECYCLE.md**  
+- [PROPOSAL_LIFECYCLE.md](./PROPOSAL_LIFECYCLE.md)  
   Stages, evaluation criteria, and approval workflow for proposals.
 
 ---
@@ -82,7 +82,7 @@ This index provides a structured overview of all documents included in the Aurel
 ## 7. Additional Notes
 
 This repository is an **example governance framework** created for educational and portfolio purposes.  
-It does not apply to any real protocol, blockchain, or production environment.
+It does not apply to any real protocol, blockchain, organization, or production environment.
 
 ---
 
