@@ -24,32 +24,32 @@ This framework serves as a reference for clients, auditors, and collaborators ev
 All governance documents are located in the [`/docs`](./docs/) directory and organized by category.
 
 ### Governance and Organizational Structure
-- [GOVERNANCE_OVERVIEW.md](./docs/GOVERNANCE_OVERVIEW.md)  
-- [ROLE_DEFINITIONS.md](./docs/ROLE_DEFINITIONS.md)  
-- [COMMUNICATION_STANDARDS.md](./docs/COMMUNICATION_STANDARDS.md)  
+- [GOVERNANCE_OVERVIEW.md](./docs/GOVERNANCE_OVERVIEW.md)
+- [ROLE_DEFINITIONS.md](./docs/ROLE_DEFINITIONS.md)
+- [COMMUNICATION_STANDARDS.md](./docs/COMMUNICATION_STANDARDS.md)
 
 ### Control, Change, and Compliance
-- [VERSION_CONTROL_POLICY.md](./docs/VERSION_CONTROL_POLICY.md)  
-- [CHANGE_CONTROL.md](./docs/CHANGE_CONTROL.md)  
-- [CHANGE_CONTROL_POLICY.md](./docs/CHANGE_CONTROL_POLICY.md)  
-- [RELEASE_MANAGEMENT.md](./docs/RELEASE_MANAGEMENT.md)  
-- [AUDIT_PROCESS.md](./docs/AUDIT_PROCESS.md)  
+- [VERSION_CONTROL_POLICY.md](./docs/VERSION_CONTROL_POLICY.md)
+- [CHANGE_CONTROL.md](./docs/CHANGE_CONTROL.md)
+- [CHANGE_CONTROL_POLICY.md](./docs/CHANGE_CONTROL_POLICY.md)
+- [RELEASE_MANAGEMENT.md](./docs/RELEASE_MANAGEMENT.md)
+- [AUDIT_PROCESS.md](./docs/AUDIT_PROCESS.md)
 
 ### Documentation and Quality Standards
-- [DOCUMENTATION_STANDARDS.md](./docs/DOCUMENTATION_STANDARDS.md)  
-- [QUALITY_ASSURANCE_POLICY.md](./docs/QUALITY_ASSURANCE_POLICY.md)  
-- [TECHNICAL_STANDARDS.md](./docs/TECHNICAL_STANDARDS.md)  
+- [DOCUMENTATION_STANDARDS.md](./docs/DOCUMENTATION_STANDARDS.md)
+- [QUALITY_ASSURANCE_POLICY.md](./docs/QUALITY_ASSURANCE_POLICY.md)
+- [TECHNICAL_STANDARDS.md](./docs/TECHNICAL_STANDARDS.md)
 
 ### Contribution and Conduct
-- [CONTRIBUTION_GUIDELINES.md](./docs/CONTRIBUTION_GUIDELINES.md)  
-- [CODE_OF_CONDUCT.md](./docs/CODE_OF_CONDUCT.md)  
+- [CONTRIBUTION_GUIDELINES.md](./docs/CONTRIBUTION_GUIDELINES.md)
+- [CODE_OF_CONDUCT.md](./docs/CODE_OF_CONDUCT.md)
 
 ### Risk, Security, and Operational Integrity
-- [RISK_MANAGEMENT.md](./docs/RISK_MANAGEMENT.md)  
-- [SECURITY_POLICY.md](./docs/SECURITY_POLICY.md)  
+- [RISK_MANAGEMENT.md](./docs/RISK_MANAGEMENT.md)
+- [SECURITY_POLICY.md](./docs/SECURITY_POLICY.md)
 
 ### Proposal and Decision‑Making Processes
-- [PROPOSAL_LIFECYCLE.md](./docs/PROPOSAL_LIFECYCLE.md)  
+- [PROPOSAL_LIFECYCLE.md](./docs/PROPOSAL_LIFECYCLE.md)
 
 ### Index
 - [INDEX.md](./docs/INDEX.md)
